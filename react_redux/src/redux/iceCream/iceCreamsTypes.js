@@ -1,0 +1,1 @@
+export const BUY_ICECREAM = 'BUT_ICECREAM';
